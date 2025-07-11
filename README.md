@@ -24,13 +24,13 @@ This is my personal portfolio website built with **HTML, CSS, and JavaScript**. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🌐 Responsive Landing Page
+ # 🌐 Responsive landing Page
 
 
 A modern, responsive landing page built using HTML and CSS. It features a full-screen hero section with a background image, navigation bar, call-to-action, feature grid, about section, contact form, and footer.
 
 
-##🚀 Features
+## 📌 Features
 
 ✅ Full-screen hero section with background image
 ✅ Smooth scrolling navigation
