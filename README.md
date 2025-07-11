@@ -4,7 +4,7 @@
 This is my personal portfolio website built with **HTML, CSS, and JavaScript**. It showcases my skills, projects, services, and includes an interactive **dark/light mode toggle**. The site is fully responsive and optimized for medium and small screen sizes.
 
 ## 🌐 Live Demo
-[View Portfolio](https://your-deployed-site-link.com/)  
+[View Portfolio](https://panditshivamportfolio.netlify.app/)  
 
 ## 📌 Features
 
