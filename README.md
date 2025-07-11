@@ -16,7 +16,7 @@ This is my personal portfolio website built with **HTML, CSS, and JavaScript**. 
 - 🔗 Social Links (LinkedIn & GitHub)
 - 🌗 Light/Dark Mode Toggle (with responsive design support)
 
-## 🔧 Tech Stack
+## 🔧 Technology Used
 
 - Frontend: HTML, CSS, JavaScript
 - Version Control: Git & GitHub
@@ -24,7 +24,7 @@ This is my personal portfolio website built with **HTML, CSS, and JavaScript**. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- # 🌐 Responsive landing Page
+ # 🌐 Responsive Landing Page
 
 
 A modern, responsive landing page built using HTML and CSS. It features a full-screen hero section with a background image, navigation bar, call-to-action, feature grid, about section, contact form, and footer.
@@ -43,26 +43,28 @@ A modern, responsive landing page built using HTML and CSS. It features a full-s
 ✅ Clean and minimal aesthetic
 
 
-##🧠 Technologies Used
+##🧠  Technology Used
 - HTML
 - CSS
 
 ##📱 Responsive Design
+
 The site is optimized for all screen sizes using media queries and mobile-first best practices. The navigation becomes a dropdown menu on smaller screens.
 
 ##📄 License
+
 This project is licensed under the MIT License – feel free to use and modify it for your own use.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-🔢 Shivam's Calculator
+🔢 Shivam ' Calculator
 
 
 A sleek, modern web-based calculator with light/dark themes, operation history, and interactive visuals. Developed using HTML, CSS, and JavaScript. Includes support for percentage, delete, clear, and history tracking features.
 
-##✨ Features
+##✨  Features
 
 🌓 Light/Dark Mode Toggle
 🧮 Basic arithmetic operations: +, -, ×, ÷, %
@@ -72,7 +74,7 @@ A sleek, modern web-based calculator with light/dark themes, operation history, 
 📜 Footer with copyright
 
 
-##🛠️ Technologies Used
+##🛠️  Technology Used
 - HTML – Structure
 - CSS – Styling and responsiveness
 - JavaScript – Interactivity and logic
