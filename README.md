@@ -59,12 +59,12 @@ This project is licensed under the MIT License – feel free to use and modify i
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-🔢 Shivam ' Calculator
+ 💼 Shivam ' Calculator
 
 
 A sleek, modern web-based calculator with light/dark themes, operation history, and interactive visuals. Developed using HTML, CSS, and JavaScript. Includes support for percentage, delete, clear, and history tracking features.
 
-##✨  Features
+## 📌 Features
 
 🌓 Light/Dark Mode Toggle
 🧮 Basic arithmetic operations: +, -, ×, ÷, %
@@ -74,7 +74,7 @@ A sleek, modern web-based calculator with light/dark themes, operation history, 
 📜 Footer with copyright
 
 
-##🛠️  Technology Used
+##🛠️  🔧 Technology Used
 - HTML – Structure
 - CSS – Styling and responsiveness
 - JavaScript – Interactivity and logic
